@@ -1,0 +1,23 @@
+@media(max-width:500px) {
+    .nav {
+
+        margin-left: 0px;
+
+        justify-content: end;
+
+    }
+
+    .nav li {
+        padding: 0px 20px;
+    }
+
+    .font6 {
+        font-family: 'Hackney', sans-serif;
+    }
+
+}
+
+.font6 {
+    font-family: 'Hackney', sans-serif;
+    color: rgb(33, 132, 33);
+}

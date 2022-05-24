@@ -1,0 +1,15 @@
+@media (max-width:500px){
+
+
+    .tx1{
+        display: none;
+    }
+    .tx2 li{
+        display: none;
+    }
+
+    .img img{
+        
+        margin-left: 180px;
+    }
+}
